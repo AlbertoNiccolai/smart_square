@@ -2,7 +2,7 @@ dist: xenial   # required for Python >= 3.7
 
 language: python
 python:
-  - "3.11.6"
+  - "3.11"
 
 # command to install dependencies
 install:
